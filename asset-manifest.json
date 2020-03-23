@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Shashanksinha20/conference_list/static/css/main.cb7cf3ff.chunk.css",
+    "main.js": "/Shashanksinha20/conference_list/static/js/main.92885775.chunk.js",
+    "main.js.map": "/Shashanksinha20/conference_list/static/js/main.92885775.chunk.js.map",
+    "runtime-main.js": "/Shashanksinha20/conference_list/static/js/runtime-main.e18e2bce.js",
+    "runtime-main.js.map": "/Shashanksinha20/conference_list/static/js/runtime-main.e18e2bce.js.map",
+    "static/js/2.2541c21b.chunk.js": "/Shashanksinha20/conference_list/static/js/2.2541c21b.chunk.js",
+    "static/js/2.2541c21b.chunk.js.map": "/Shashanksinha20/conference_list/static/js/2.2541c21b.chunk.js.map",
+    "index.html": "/Shashanksinha20/conference_list/index.html",
+    "precache-manifest.da1bc30fe2b72b48ce508e9f2725c250.js": "/Shashanksinha20/conference_list/precache-manifest.da1bc30fe2b72b48ce508e9f2725c250.js",
+    "service-worker.js": "/Shashanksinha20/conference_list/service-worker.js",
+    "static/css/main.cb7cf3ff.chunk.css.map": "/Shashanksinha20/conference_list/static/css/main.cb7cf3ff.chunk.css.map",
+    "static/js/2.2541c21b.chunk.js.LICENSE.txt": "/Shashanksinha20/conference_list/static/js/2.2541c21b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e18e2bce.js",
+    "static/js/2.2541c21b.chunk.js",
+    "static/css/main.cb7cf3ff.chunk.css",
+    "static/js/main.92885775.chunk.js"
+  ]
+}
