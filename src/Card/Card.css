@@ -1,0 +1,50 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.card {
+    display: flex;
+    margin-left: 10px;
+    width: 600px;
+    background-color: grey;
+    padding: 16px;
+    margin: 16px;
+    border-radius: 6px;
+}
+
+.card-details {
+    display: flex;
+    padding: 0 8px;
+    flex-direction: column;
+    width: 100%;
+    align-items: flex-start;
+}
+
+.card-image {
+    width: 150px;
+    height: 150px;
+}
+
+.card-info {
+    margin-bottom: 0 4px 8px 0;
+}
+
+.card-icon {
+    display: flex;
+    align-self: flex-end;
+    cursor: pointer;
+    align-items: center;
+}
+
+.input-search {
+    padding: 8px;
+    width: 300px;
+    border-radius: 4px;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+}
+
+.search-box {
+    margin: 40px;
+}
